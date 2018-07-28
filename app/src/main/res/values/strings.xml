@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Finger Ball</string>
+    <string name="strartButton">Start Game</string>
+
+    <string name="title_activity_ad">AdActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+</resources>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="avoidTextMenu">AVOID</string>
+    <string name="startButtonMenu">Старт</string>
+    <string name="settingsButtonMenu">Настройки</string>
+    <string name="recordsButton">Рекорды</string>
+    <string name="helpButtonMenu">Помощь</string>
+    <string name="exitButtonMenu">Выход</string>
+    
+    <string name="leftGameButton">←</string>
+    <string name="rightGameButton">→</string>
+    <string name="upGameButton">↑</string>
+    <string name="downGameButton">↓</string>
+    
+    <string name="difficultyButton">Сложность</string>
+    <string name="imageButton">Изображения</string>
+    <string name="soundButton">Звуки</string>
+    <string name="gameSettingButton">Игра</string>
+    
+    <string name="difficultyText">Сложность игры:</string>
+    <string name="easyRadioButton">Легко</string>
+    <string name="normalRadioButton">Нормально</string>
+    <string name="hardRadioButton">Сложно</string>
+    <string name="randomRadioButton">Произвольно</string>
+    <string name="yourSettingRadioButton">Свои параметры</string>
+    <string name="okeyDufficultyButton">Подтвердить</string>
+    <string name="closeDifficultyButton">Отмена</string>
+    <string name="settingNameText">Настройки:</string>
+
+    <string name="yourSettingText">Свои настройки:</string>
+    <string name="lifePlayerCountText">Количество жизней игрока: </string>
+    <string name="bulletPlayerCountText">Количество патрон игрока: </string>
+    <string name="numberOfPossibleMedkitText">Возможное число аптечек на уровне: </string>
+    <string name="numberOfPossibleAmmoText">Возможное число боеприпасов на уровне: </string>
+    <string name="startEnemyCount">Начальное число врагов: </string>
+    <string name="startEnemyLifeCount">Количество жизней врагов: </string>
+    <string name="AddEnemyOnNextLvl">Дополнительное число врогов на следующем уровне: </string>
+    <string name="speedPlayer">Скорость игрока:</string>
+
+    <string name="settingImageTextView">Настройки изображений</string>
+    <string name="zoomText">Масштабирование: </string>
+    <string name="textureTextView">Иконки игры:</string>
+    <string name="standartTexture">Стандартные иконки</string>
+    <string name="customTexture">Свои иконки</string>
+    <string name="playerTexture">Игрок</string>
+    <string name="enemyTexture">Враг</string>
+    <string name="enemyTrigTexture">Игрок замечен</string>
+    <string name="enemyDeadTexture">Враг умер</string>
+    <string name="wallTexture">Стена</string>
+    <string name="bulletTexture">Пуля</string>
+    <string name="medkitTexture">Аптечка</string>
+    <string name="ammoTexture">Патроны</string>
+    <string name="portalTexture">Портал</string>
+
+    <string name="settingControlsTextView">Настройки игры</string>
+    <string name="controlFire">Способ стрельбы:</string>
+    <string name="joystickFire">Стрельба джостиком</string>
+    <string name="touchFire">Стрельба нажатием на экран</string>
+    <string name="updateObj">Активация врага:</string>
+    <string name="updateAllEnemy">Враги активны на всём игровом поле</string>
+    <string name="updateOnScreenEnemy">Враги активны только на экране</string>
+
+    <string name="soundSetting">Настройки звука</string>
+    <string name="soundAll">Общая громкость:</string>
+    <string name="soundMusic">Громкость фоновой музыки:</string>
+    <string name="soundFireText">Громкость стрельбы: </string>
+
+    <string name="records">Рекорды:</string>
+    <string name="recordEasy">Максимальный уровень на игровых настройках легко: </string>
+    <string name="recordKillEasy">Максимальное количество убийтсв на игровых настройках легко: </string>
+    <string name="recordNormal">Максимальный уровень на игровых настройках нормально: </string>
+    <string name="recordKillNormal">Максимальное количество убийтсв на игровых настройках нормально: </string>
+    <string name="recordHard">Максимальный уровень на игровых настройках сложно: </string>
+    <string name="recordKillHard">Максимальное количество убийтсв на игровых настройках сложно: </string>
+</resources>

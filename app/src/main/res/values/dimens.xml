@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="sizeTextMain">50sp</dimen>
+    <dimen name="widthButtonMenu">150dp</dimen>
+    <dimen name="buttonBellowButton">5dp</dimen>
+    <dimen name="sizeGameButton">30sp</dimen>
+    <dimen name="marginGameUpBottom">30dp</dimen>
+    <dimen name="sizeRadioButtonText">15sp</dimen>
+    <dimen name="sizeDifficultyText">20sp</dimen>
+    <dimen name="marginRecords">30dp</dimen>
+    <dimen name="marginStandart">10dp</dimen>
+    <dimen name="sizeName">25sp</dimen>
+    <dimen name="marginName">25dp</dimen>
+
+    <dimen name="TextureNewIconButton">70dp</dimen>
+
+    <dimen name="joystickFieldSize">100dp</dimen>
+    <dimen name="joystickMargin">50dp</dimen>
+    <dimen name="joystickMoveMargin">85dp</dimen>
+    <dimen name="joystickMoveSize">30dp</dimen>
+    <dimen name="iconMarginTop">4dp</dimen>
+
+    <dimen name="sizeButtonInGame">50dp</dimen>
+
+    <dimen name="topScore">15dp</dimen>
+
+    <dimen name="sizeTextScore">15dp</dimen>
+</resources>
